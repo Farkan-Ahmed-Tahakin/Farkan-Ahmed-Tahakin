@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Farkan Ahmed Tahakin</h1>
 <h3 align="center">A passionate Game Engineer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F221495&psig=AOvVaw28Mricya172dt5hbUuTcmF&ust=1747403236305000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDm3rfOpY0DFQAAAAAdAAAAABAo">
+<!-- <img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F221495&psig=AOvVaw28Mricya172dt5hbUuTcmF&ust=1747403236305000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDm3rfOpY0DFQAAAAAdAAAAABAo"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farkan-ahmed-tahakin&label=Profile%20views&color=0e75b6&style=flat" alt="farkan-ahmed-tahakin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farkan-ahmed-tahakin" alt="farkan-ahmed-tahakin" /></a> </p>
 
 - 🔭 I’m currently working on **Tic-Tac-Toe**
 
@@ -11,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Snake-Game**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Farkan-Ahmed-Tahakin/FARKAN-game-website](https://github.com/Farkan-Ahmed-Tahakin/FARKAN-game-website)
+- 👨‍💻 All of my projects are available at [FARKAN-game-website](https://github.com/Farkan-Ahmed-Tahakin/FARKAN-game-website)
 
 - ⚡ Fun fact **Im funny**
 
