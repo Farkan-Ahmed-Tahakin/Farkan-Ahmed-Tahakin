@@ -1,4 +1,4 @@
-![banner]([https://github.com/Farkan-Ahmed-Tahakin/Farkan-Ahmed-Tahakin/blob/main/1624171139854-min.png?raw=true](https://github.com/Farkan-Ahmed-Tahakin/Farkan-Ahmed-Tahakin/blob/main/asset/1624171139854-min.png?raw=true))
+![banner](https://github.com/Farkan-Ahmed-Tahakin/Farkan-Ahmed-Tahakin/blob/main/asset/1624171139854-min.png?raw=true)
 <h1 align="center">Hi 👋, I'm Farkan Ahmed Tahakin</h1>
 <h3 align="center">A passionate Game Engineer from Bangladesh</h3>
 
