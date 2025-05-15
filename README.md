@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farkan-ahmed-tahakin&label=Profile%20views&color=0e75b6&style=flat" alt="farkan-ahmed-tahakin" /> </p>
 
-
+<p align="right"> <img src="https://github.com/Farkan-Ahmed-Tahakin/Farkan-Ahmed-Tahakin/blob/main/asset/221495.gif?raw=true"/> </p>
 - 🔭 I’m currently working on **Tic-Tac-Toe**
 
 - 👯 I’m looking to collaborate on **Super-Car-Game**
