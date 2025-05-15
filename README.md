@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Farkan Ahmed Tahakin</h1>
 <h3 align="center">A passionate Game Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farkan-ahmed-tahakin&label=Profile%20views&color=0e75b6&style=flat" alt="farkan-ahmed-tahakin" /> </p>
-<p align="right"> <img src="https://github.com/Farkan-Ahmed-Tahakin/Farkan-Ahmed-Tahakin/blob/main/asset/221495.gif?raw=true" width='450' /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farkan-ahmed-tahakin&label=Profile%20views&color=0e75b6&style=flat" alt="farkan-ahmed-tahakin" />
+<img align="right" src="https://github.com/Farkan-Ahmed-Tahakin/Farkan-Ahmed-Tahakin/blob/main/asset/221495.gif?raw=true" width='450' /> </p>
 <p align="left">
 - 🔭 I’m currently working on **Tic-Tac-Toe**
 
